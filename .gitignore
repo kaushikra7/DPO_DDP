@@ -1,0 +1,11 @@
+__pycache__/
+dataset3/
+dataset24/
+dataset27-scramble/
+dataset27-scramblenew/
+dataset27/
+datasetreasoning27/
+dpo_results/
+dpo_scripts/
+dpo_dataset/
+dpo_models/
